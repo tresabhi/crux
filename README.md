@@ -1,0 +1,3 @@
+# CruX
+
+JavaScript, guilt free.
