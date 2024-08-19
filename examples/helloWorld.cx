@@ -1,0 +1,3 @@
+import console from "crux:console"
+
+console.log("Hello World!")
